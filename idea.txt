@@ -1,0 +1,14 @@
+This website will be a sharing hub for any friday khotba so ppl can go back to and visit it any time to re-read
+
+Main features:
+    1. Only post on fridays after 12PM
+    2. Viwe the webiste 24/7
+    3. Have light and dark mode
+    4. Website in Arabic 
+    5. Abilty to add a post just with a click of a butten, newest being up
+    6. Fixed sidebare that i can add hadith in or whatever I want
+    7. A delete and edit abilty for the user and owner (me)
+
+Future ideas:
+    1. Creat a newsletter so people get emailed the new khotba and can share their's
+    2. Make admin accounnts for people to be able to change the side bar

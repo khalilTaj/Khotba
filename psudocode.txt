@@ -1,0 +1,12 @@
+Only post on fridays after 12PM:
+1. Creat friday varuable
+2. Creat time varuable
+3. Check if day = friday && time = 12PM
+4. If ture allow posts, else log.("Only post on friday")
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Have light and dark mode:
+1. Creat a button for light and dark mode
+2. Link button to js
+3. check if light icon = ture
+4. if = true make colors light, else dark
